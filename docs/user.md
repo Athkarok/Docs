@@ -1,6 +1,6 @@
 # user
 
-![](./img/user.png)
+![user_model](./img/user.png)
 
 | ATTRIBUTE | DATATYPE | DEFINITION |
 | --- | --- | --- |
