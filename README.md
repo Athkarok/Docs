@@ -2,6 +2,7 @@
 
 ## Documentation
 
+- [DB Schema][]
 - [User][]
 - [User Settings][]
 - [Progress][]
@@ -9,6 +10,7 @@
 - [Quote][]
 - [Form][]
 
+[DB Schema]: ./docs/db_schema.md
 [User]: ./docs/user.md
 [User Settings]: ./docs/user_settings.md
 [Progress]: ./docs/progress.md
