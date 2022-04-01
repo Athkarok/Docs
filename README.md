@@ -18,4 +18,4 @@
 [Zikr]: ./docs/zikr.md
 [Quote]: ./docs/quote.md
 [Form]: ./docs/form.md
-[Test]: (https://github.com/abdullahsayed30/Athkarok-Backend/blob/main/README.md)
+[Test]: https://github.com/abdullahsayed30/Athkarok-Backend/blob/main/README.md
