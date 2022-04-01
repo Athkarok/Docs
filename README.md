@@ -3,19 +3,7 @@
 ## Documentation
 
 - [DB Schema][]
-- [User][]
-- [User Settings][]
-- [Progress][]
-- [Zikr][]
-- [Quote][]
-- [Form][]
-- [Test][]
+- [API][]
 
-[DB Schema]: ./docs/db_schema.md
-[User]: ./docs/user.md
-[User Settings]: ./docs/user_settings.md
-[Progress]: ./docs/progress.md
-[Zikr]: ./docs/zikr.md
-[Quote]: ./docs/quote.md
-[Form]: ./docs/form.md
-[Test]: (https://github.com/abdullahsayed30/Athkarok-Backend/blob/main/README.md)
+[DB Schema]: ./docs/db_schema/db_schema.md
+[API]: https://github.com/Athkarok/API/blob/main/README.md
